@@ -6,7 +6,7 @@ Jakevo Output Datamart is an API middleware application for getting all data of 
 [![Python Supported Version](https://img.shields.io/pypi/pyversions/fastapi.svg?color=%2334D058)](https://pypi.org/project/fastapi)
 [![Pypi Package Version](https://img.shields.io/pypi/v/fastapi?color=%2334D058&label=pypi%20package)](https://pypi.org/project/fastapi)
 
-[Fastapi](https://fastapi.tiangolo.com) is a framework, high performance, easy to learn, fast to code, ready for production.
+[Fastapi](https://fastapi.tiangolo.com) is a modern, easy to learn, fast to code, ready for production, fast (high-performance), web framework for building APIs with Python 3.8+ based on standard Python type hints.
 
 ![Scylladb](https://www.scylladb.com/wp-content/uploads/logo-scylla-horizontal-RGB.svg)
 [![GitHub release](https://img.shields.io/github/tag/scylladb/scylla-operator.svg?label=release)](https://github.com/scylladb/scylla-operator/releases)
