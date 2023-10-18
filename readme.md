@@ -19,11 +19,11 @@
 </p> -->
 
 ![Fastapi](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
+
 ![Scylladb](https://www.scylladb.com/wp-content/uploads/logo-scylla-horizontal-RGB.svg)
 
-[![Python Supported Version](https://img.shields.io/pypi/pyversions/fastapi.svg?color=%2334D058)](https://pypi.org/project/fastapi)
-
 [![GitHub release](https://img.shields.io/github/tag/scylladb/scylla-operator.svg?label=release)](https://github.com/scylladb/scylla-operator/releases)
+[![Python Supported Version](https://img.shields.io/pypi/pyversions/fastapi.svg?color=%2334D058)](https://pypi.org/project/fastapi)
 
 [Fastapi](https://fastapi.tiangolo.com) is a framework, high performance, easy to learn, fast to code, ready for production.
 
